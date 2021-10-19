@@ -1,5 +1,5 @@
-# Miami Condo kings
-TAP **[PREVIEW LINK](https://andriifront.github.io/react_miami/)** TO SEE DEMO
+# FreySoft
+TAP **[PREVIEW LINK](https://andriifront.github.io/Freysoft/)** TO SEE DEMO
 
 ## Technologies
 
