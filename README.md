@@ -21,7 +21,7 @@ FreySoft is a global provider of full-cycle software development services with h
 
 Figma design: [link](https://www.figma.com/file/cVVQhnKQa8KLpN4pZPlHMO/Freysoft-Test-task?node-id=0%3A1)
 
-Demonstration: [link](              )
+Demonstration: [link](https://andriifront.github.io/Freysoft/)
 
 ## My Contacts
 Andrii Badekha
