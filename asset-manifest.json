@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Freysoft/static/css/main.4af63e7b.chunk.css",
+    "main.js": "/Freysoft/static/js/main.53bf9cb5.chunk.js",
+    "main.js.map": "/Freysoft/static/js/main.53bf9cb5.chunk.js.map",
+    "runtime-main.js": "/Freysoft/static/js/runtime-main.5aff09ad.js",
+    "runtime-main.js.map": "/Freysoft/static/js/runtime-main.5aff09ad.js.map",
+    "static/js/2.1d3b02f1.chunk.js": "/Freysoft/static/js/2.1d3b02f1.chunk.js",
+    "static/js/2.1d3b02f1.chunk.js.map": "/Freysoft/static/js/2.1d3b02f1.chunk.js.map",
+    "index.html": "/Freysoft/index.html",
+    "precache-manifest.9331086f78e006a6250f90e35f6e033f.js": "/Freysoft/precache-manifest.9331086f78e006a6250f90e35f6e033f.js",
+    "service-worker.js": "/Freysoft/service-worker.js",
+    "static/css/main.4af63e7b.chunk.css.map": "/Freysoft/static/css/main.4af63e7b.chunk.css.map",
+    "static/js/2.1d3b02f1.chunk.js.LICENSE.txt": "/Freysoft/static/js/2.1d3b02f1.chunk.js.LICENSE.txt",
+    "static/media/Logo.scss": "/Freysoft/static/media/logo.47e2e7e9.svg",
+    "static/media/menu.svg": "/Freysoft/static/media/menu.3388b539.svg",
+    "static/media/phone.svg": "/Freysoft/static/media/phone.e7fae1c6.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5aff09ad.js",
+    "static/js/2.1d3b02f1.chunk.js",
+    "static/css/main.4af63e7b.chunk.css",
+    "static/js/main.53bf9cb5.chunk.js"
+  ]
+}
