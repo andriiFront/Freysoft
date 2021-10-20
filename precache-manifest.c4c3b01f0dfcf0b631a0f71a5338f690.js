@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d5aa5c453b718c570f9648fbe88559a8",
+    "revision": "3d0afbef94624f7dfedd14c2a37c7a2d",
     "url": "/Freysoft/index.html"
   },
   {
-    "revision": "530ae67c65ac9bdc9d38",
-    "url": "/Freysoft/static/css/main.4af63e7b.chunk.css"
+    "revision": "0b86d6978aff9050f1ba",
+    "url": "/Freysoft/static/css/main.3f31bb84.chunk.css"
   },
   {
     "revision": "3a7ff63951f44d0f8a78",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Freysoft/static/js/2.1d3b02f1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "530ae67c65ac9bdc9d38",
-    "url": "/Freysoft/static/js/main.53bf9cb5.chunk.js"
+    "revision": "0b86d6978aff9050f1ba",
+    "url": "/Freysoft/static/js/main.c3c8afa4.chunk.js"
   },
   {
     "revision": "26bf6a78c86c427722ca",

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Freysoft/precache-manifest.9331086f78e006a6250f90e35f6e033f.js"
+  "/Freysoft/precache-manifest.c4c3b01f0dfcf0b631a0f71a5338f690.js"
 );
 
 self.addEventListener('message', (event) => {
